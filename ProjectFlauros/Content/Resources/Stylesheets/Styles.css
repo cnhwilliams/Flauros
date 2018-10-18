@@ -1,4 +1,4 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 body
 {
@@ -38,7 +38,7 @@ h5
 h6
 {
 	font-weight: bold;
-	font-size: 8.0pt;
+	font-size: 5.0pt;
 }
 
 p
@@ -76,7 +76,7 @@ MadCap|expandingHead
 
 MadCap|expandingBody
 {
-	color: #777777;
+	color: #666666;
 	font-style: italic;
 }
 
@@ -87,4 +87,3 @@ MadCap|dropDownHotspot
 	text-decoration: none;
 	color: #006600;
 }
-
